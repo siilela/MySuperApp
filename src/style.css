@@ -44,8 +44,12 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 100%;
   font-family: "Inter";
+}
+
+.countries{
+  margin: 0px;
 }
 
 .submit__btn {
